@@ -1,0 +1,8 @@
+{
+    "services": {
+      "web": {
+        "commands": ["npm install", "npm run build", "npx serve -s dist"]
+      }
+    }
+  }
+  
